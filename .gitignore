@@ -1,0 +1,44 @@
+# ---- OS / IDE ----
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+*.env
+*.log
+
+# SQLite / local state
+*.db
+*.sqlite
+*.sqlite3
+
+# ---- FastAPI app (local DB 예시) ----
+Python_Assignment/library_server/__pycache__/
+
+# ---- C/C++ 빌드 산출물 ----
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.pdb
+*.ilk
+
+# 빌드 디렉토리(툴 체인 별)
+build/
+cmake-build-*/
+bin/
+dist/
+Debug/
+Release/
+x64/
+ipch/
