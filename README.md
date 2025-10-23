@@ -23,9 +23,6 @@
 **스크린샷**
 ![LogFileManager 결과](Cpp_Assignment_1/assets/LogFileManager_result.png)
 
-**동영상**
-[실행 데모 보기](Cpp_Assignment_1/assets/LogFileManager_demo.mp4)
-
 ---
 
 ## C++ 과제 2 — 템플릿 원형 버퍼 CircularBuffer
@@ -45,9 +42,6 @@
 **스크린샷**
 ![CircularBuffer 결과](Cpp_Assignment_2/assets/CircularBuffer_result.png)
 
-**동영상**
-[실행 데모 보기](Cpp_Assignment_2/assets/CircularBuffer_demo.mp4)
-
 ---
 
 ## Python 과제 — FastAPI 기반 도서관 RESTful API
@@ -64,6 +58,3 @@
 ### 실행 결과
 **스크린샷**
 ![API 서버 결과](Python_Assignment/library_server/assets/RESTful_API_result.png)
-
-**동영상**
-[실행 데모 보기](Python_Assignment/library_server/assets/RESTful_API_demo.mp4)
