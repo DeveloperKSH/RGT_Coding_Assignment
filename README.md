@@ -1,6 +1,6 @@
 # RGT_Coding_Assignment
 
-총 3개의 과제를 진행했고, 각 과제에 대해 **간단 설명**과 **실행 결과(스크린샷/동영상)**를 한 문서에 정리했습니다.
+총 3개의 과제를 진행했고, 각 과제에 대해 **간단 설명**과 **실행 결과(스크린샷/동영상)** 를 한 문서에 정리했습니다.
 
 - [C++ 과제 1 — 스마트 포인터 기반 LogFileManager](#c-과제-1--스마트-포인터-기반-logfilemanager)
 - [C++ 과제 2 — 템플릿 원형 버퍼 CircularBuffer](#c-과제-2--템플릿-원형-버퍼-circularbuffer)
@@ -21,6 +21,7 @@
 
 ### 실행 결과
 **스크린샷**
+
 ![LogFileManager 결과](Cpp_Assignment_1/assets/LogFileManager_result.png)
 
 ---
@@ -40,6 +41,7 @@
 
 ### 실행 결과
 **스크린샷**
+
 ![CircularBuffer 결과](Cpp_Assignment_2/assets/CircularBuffer_result.png)
 
 ---
@@ -57,4 +59,5 @@
 
 ### 실행 결과
 **스크린샷**
-![API 서버 결과](Python_Assignment/library_server/assets/RESTful_API_result.png)
+
+![API 서버 결과](Python_Assignment/assets/RESTful_API_result.png)
